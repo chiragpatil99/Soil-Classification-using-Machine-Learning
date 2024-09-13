@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Soil-Classification-using-Machine-Learning/static/css/main.18f981f1.css",
+    "main.js": "/Soil-Classification-using-Machine-Learning/static/js/main.b726c95e.js",
+    "static/js/787.6af32225.chunk.js": "/Soil-Classification-using-Machine-Learning/static/js/787.6af32225.chunk.js",
+    "static/media/teaser.png": "/Soil-Classification-using-Machine-Learning/static/media/teaser.9aae47fbf70713c7fa0f.png",
+    "static/media/rf_aug.png": "/Soil-Classification-using-Machine-Learning/static/media/rf_aug.6dcc4ab4003c209e8ec6.png",
+    "static/media/rf.png": "/Soil-Classification-using-Machine-Learning/static/media/rf.f112d3accc49c5333b27.png",
+    "static/media/xg_aug.png": "/Soil-Classification-using-Machine-Learning/static/media/xg_aug.673a29983a4015898e07.png",
+    "static/media/xg.png": "/Soil-Classification-using-Machine-Learning/static/media/xg.1782cfb1fabb57f3138d.png",
+    "static/media/vgg_na.png": "/Soil-Classification-using-Machine-Learning/static/media/vgg_na.14471f41c534aa3edc2a.png",
+    "static/media/resnet_na.png": "/Soil-Classification-using-Machine-Learning/static/media/resnet_na.9ab8072bf2a0cb8527b9.png",
+    "static/media/resnet_aug.png": "/Soil-Classification-using-Machine-Learning/static/media/resnet_aug.7516a0e18548ede90d89.png",
+    "static/media/vgnet_a.png": "/Soil-Classification-using-Machine-Learning/static/media/vgnet_a.b054478fa93ff144826e.png",
+    "static/media/ft.png": "/Soil-Classification-using-Machine-Learning/static/media/ft.72ee45a38f0cdfd3084a.png",
+    "static/media/resnet.png": "/Soil-Classification-using-Machine-Learning/static/media/resnet.63af1175ff9d56744077.png",
+    "static/media/gb.png": "/Soil-Classification-using-Machine-Learning/static/media/gb.bb70df7bcbb1edbfa4da.png",
+    "static/media/seg_input.png": "/Soil-Classification-using-Machine-Learning/static/media/seg_input.644fd498326f7c67a3bb.png",
+    "static/media/vgg.png": "/Soil-Classification-using-Machine-Learning/static/media/vgg.b408d1f1b2bff26c09f9.png",
+    "static/media/segmented.png": "/Soil-Classification-using-Machine-Learning/static/media/segmented.4969a0fb9412e3440245.png",
+    "static/media/red.jpg": "/Soil-Classification-using-Machine-Learning/static/media/red.d23d54fe6d6f9cd06ee2.jpg",
+    "static/media/all.png": "/Soil-Classification-using-Machine-Learning/static/media/all.a0e299d290f566ab9890.png",
+    "static/media/clay.jpg": "/Soil-Classification-using-Machine-Learning/static/media/clay.b0250996e00fb6d7b222.jpg",
+    "static/media/mask.png": "/Soil-Classification-using-Machine-Learning/static/media/mask.0d9b073532609402c7f9.png",
+    "static/media/logo_2.png": "/Soil-Classification-using-Machine-Learning/static/media/logo_2.1729fc3b0ee86b0167bb.png",
+    "index.html": "/Soil-Classification-using-Machine-Learning/index.html",
+    "main.18f981f1.css.map": "/Soil-Classification-using-Machine-Learning/static/css/main.18f981f1.css.map",
+    "main.b726c95e.js.map": "/Soil-Classification-using-Machine-Learning/static/js/main.b726c95e.js.map",
+    "787.6af32225.chunk.js.map": "/Soil-Classification-using-Machine-Learning/static/js/787.6af32225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f981f1.css",
+    "static/js/main.b726c95e.js"
+  ]
+}
