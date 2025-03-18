@@ -1,6 +1,6 @@
 # React App Created for Computer Vision Project Report
 
-* The report can be found at https://pranav1099.github.io/Soil-Classification-using-Machine-Learning/
+* The report can be found at https://chiragpatil99.github.io/Soil-Classification-using-Machine-Learning/
 
 * Please refer to the notebooks for detailed code for both the approaches mentioned in the report
 
